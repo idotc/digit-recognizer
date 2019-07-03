@@ -3,4 +3,4 @@ This code is based on [Corresponding CPU code](https://github.com/idotc/Gesture-
 >>
 这个pytorch 文件下是GPU的实现代码
 >>
-    python train.py  ## 即可跑起来
+    python train_digit.py  ## 即可跑起来
